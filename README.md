@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Sina Pirzadeh 👋
 
-<!--
-**pirroot/pirroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Web Developer specializing in **Next.js** and **Django REST Framework**.
 
-Here are some ideas to get you started:
+I build scalable, SEO-friendly web applications with a focus on clean architecture, performance, and maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently available for **Freelance** and **Remote** opportunities.
+
+## 🚀 Tech Stack
+
+- Next.js
+- React
+- TypeScript
+- Django
+- Django REST Framework
+- PostgreSQL
+- Tailwind CSS
+- Docker
+- Git
+
+## 💼 Experience
+
+- Full Stack Developer — IranKetab
+- Full Stack Developer — Baresh
+- Web Developer — Aram Gostar
+- Mid-Level Web Developer — Baran Masih
+
+## 📫 Contact
+
+Portfolio: https://pirroot.site
+
+LinkedIn:
+https://linkedin.com/in/pirroot
+
+Email:
+pirzadehroot@gmail.com
