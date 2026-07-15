@@ -1,68 +1,132 @@
-<ima src="https://github.com/pirroot/pirroot/blob/main/banner.png" />
+# <img src="https://raw.githubusercontent.com/pirroot/pirroot/main/banner.png" alt="Banner" width="100%" />
 
-<h1 align="center">Hi there, I'm Sina Pirzadeh 👋</h1>
+<h1 align="center">Hi 👋, I'm Sina Pirzadeh</h1>
 
-<h3 align="center">Full Stack Web Developer specializing in Next.js & Django REST Framework</h3>
-
-<p align="center">
-  I build scalable, SEO-friendly web applications with a focus on clean architecture, performance, and maintainable code.
-</p>
+<h3 align="center">
+Full Stack Web Developer • Next.js • React • Django REST Framework
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Freelance%20%26%20Remote-brightgreen?style=for-the-badge" alt="Available for work"/>
+I build fast, scalable, and SEO-friendly web applications with a strong focus on clean architecture, maintainable code, and great user experience.
 </p>
 
 <p align="center">
-  <a href="https://pirroot.site" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://komarev.com/ghpvc/?username=pirroot&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/pirroot?style=for-the-badge" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/pirroot?style=for-the-badge" alt="Stars"/>
+</p>
+
+<p align="center">
+  <a href="https://pirroot.site">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/pirroot" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/pirroot">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:pirzadehroot@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:pirzadehroot@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<br/>
+---
 
-## 🚀 Tech Stack
+## 🚀 About Me
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+* 💻 Full Stack Web Developer
+* ⚛️ Specialized in **Next.js, React & TypeScript**
+* 🐍 Backend Developer with **Django & Django REST Framework**
+* 🗄️ PostgreSQL, Redis & Docker
+* 🚀 Passionate about Performance, SEO & Clean Architecture
+* 🌍 Open to Remote & Freelance Opportunities
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind" />
 </p>
 
-<br/>
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,postgres,redis,nodejs" />
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman" />
+</p>
+
+---
 
 ## 💼 Experience
 
-```text
-Full Stack Developer      — IranKetab
-Full Stack Developer      — Baresh
-Web Developer              — Aram Gostar
-Mid-Level Web Developer    — Baran Masih
-```
+| Company          | Position                |
+| ---------------- | ----------------------- |
+| 🇮🇷 IranKetab   | Full Stack Developer    |
+| 🇮🇷 Baresh      | Full Stack Developer    |
+| 🇮🇷 Aram Gostar | Web Developer           |
+| 🇮🇷 Baran Masih | Mid-Level Web Developer |
 
-<br/>
+---
 
-## 📫 Get In Touch
-
-| | |
-|---|---|
-| 🌐 **Portfolio** | [pirroot.site](https://pirroot.site) |
-| 💼 **LinkedIn** | [linkedin.com/in/pirroot](https://linkedin.com/in/pirroot) |
-| 📧 **Email** | [pirzadehroot@gmail.com](mailto:pirzadehroot@gmail.com) |
-
-<br/>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pirroot&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pirroot&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pirroot&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pirroot&theme=react-dark&hide_border=true&bg_color=20232a"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=pirroot&theme=tokyonight&no-frame=true&column=7"/>
+</p>
+
+---
+
+## 🎯 What I Love
+
+* ⚡ Building High Performance Applications
+* 🧩 Clean Architecture
+* 📈 SEO Optimization
+* 🎨 Beautiful UI/UX
+* 🔒 Secure REST APIs
+* 🐳 Dockerized Deployments
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+<a href="https://pirroot.site">🌐 Portfolio</a> •
+<a href="https://linkedin.com/in/pirroot">LinkedIn</a> •
+<a href="mailto:pirzadehroot@gmail.com">Email</a>
+</p>
+
+---
+
+<p align="center">
+<i>"Code is not just about making things work.<br>
+It's about making them scalable, maintainable, and enjoyable."</i>
+
+<br><br>
+
+⭐ If you like my work, consider following me or starring one of my repositories.
+
 </p>
