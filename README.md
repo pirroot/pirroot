@@ -1,3 +1,4 @@
+<ima src="https://github.com/pirroot/pirroot/blob/main/banner.png" />
 <h1 align="center">Hi there, I'm Sina Pirzadeh 👋</h1>
 
 <h3 align="center">Full Stack Web Developer specializing in Next.js & Django REST Framework</h3>
