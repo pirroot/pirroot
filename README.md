@@ -1,61 +1,67 @@
-[![MasterHead](https://1.bp.blogspot.com/-aKXUmGe_Cdk/YACmKq9d1ZI/AAAAAAAAP_o/KkKe1xVCL0weBvDApumCnFBx63VXBEoJgCLcBGAsYHQ/s0/more-productivity-with-Kotlin-header.png)](https://github.com/ShahramKhandagi)
+<ima src="https://github.com/pirroot/pirroot/blob/main/banner.png" />
+<h1 align="center">Hi there, I'm Sina Pirzadeh 👋</h1>
 
-<h1 align="center">Hi 👋, I'm Shahram Khandagi</h1>
-<h3 align="center">A Android developer</h3>
+<h3 align="center">Full Stack Web Developer specializing in Next.js & Django REST Framework</h3>
 
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/6352cb28262707.5637231a2a4a7.gif">
+<p align="center">
+  I build scalable, SEO-friendly web applications with a focus on clean architecture, performance, and maintainable code.
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahramkhandagi&label=Profile%20views&color=0e75b6&style=flat" alt="shahramkhandagi" /> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Freelance%20%26%20Remote-brightgreen?style=for-the-badge" alt="Available for work"/>
+</p>
 
-<p align="left"> <a href="https://twitter.com/khandagishahram" target="blank"><img src="https://img.shields.io/twitter/follow/khandagishahram?logo=twitter&style=for-the-badge" alt="khandagishahram" /></a> </p>
-
-- 🔭 I am currently working on my **apps** which will be **released** in the **markets** soon...
-
-- 🌱 I’m currently working **Dart & Flutter**
-
-- 📝 I start to write articles soon on [virgool.io/@shahramkhandagi](virgool.io/@shahramkhandagi)
-
-- 📫 How to reach me **shahramkhandagi@gmail.com**
+<p align="center">
+  <a href="https://pirroot.site" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/pirroot" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:pirzadehroot@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 <br/>
 
-## Connect with me:
+## 🚀 Tech Stack
 
 <p align="left">
-<a href="https://twitter.com/khandagishahram" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" alt="khandagishahram" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shahram-khandagi-988161260" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="shahram-khandagi-988161260" height="30" width="40" /></a>
-<a href="https://instagram.com/shahramkhandagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" alt="shahramkhandagi" height="30" width="40" /></a>
-<a href="https://t.me/kotlinbox" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="kotlinbox" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 <br/>
 
-## My Skills
+## 💼 Experience
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,java,firebase,figma,flutter,dart,git,gradle,mysql,vscode,sqlite,xd,postman,postgres&theme=dark)](https://skillicons.dev)
-
-<br/>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahramkhandagi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahramkhandagi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahramkhandagi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+```text
+Full Stack Developer      — IranKetab
+Full Stack Developer      — Baresh
+Web Developer              — Aram Gostar
+Mid-Level Web Developer    — Baran Masih
+```
 
 <br/>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/shahramkhaE"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shahramkhaE" /></a></p>
+## 📫 Get In Touch
 
-<br/><br/>
+| | |
+|---|---|
+| 🌐 **Portfolio** | [pirroot.site](https://pirroot.site) |
+| 💼 **LinkedIn** | [linkedin.com/in/pirroot](https://linkedin.com/in/pirroot) |
+| 📧 **Email** | [pirzadehroot@gmail.com](mailto:pirzadehroot@gmail.com) |
 
----
+<br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahramkhandagi&label=Profile%20views&color=0e75b6&style=flat" alt="shahramkhandagi" />
+  <img src="https://komarev.com/ghpvc/?username=pirroot&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 </p>
