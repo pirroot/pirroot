@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/pirroot/pirroot/main/banner.png" width="100%" alt="Sina Pirzadeh" />
+# <img src="https://raw.githubusercontent.com/pirroot/pirroot/main/Neon Developer’s Cyberpunk Workspace.png" width="100%" alt="Sina Pirzadeh" />
 
 <h1 align="center">Hi, I'm Sina Pirzadeh 👋</h1>
 
