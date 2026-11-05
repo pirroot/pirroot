@@ -1,31 +1,42 @@
-# <img src="https://raw.githubusercontent.com/pirroot/pirroot/main/Neon Developer’s Cyberpunk Workspace.png" width="100%" alt="Sina Pirzadeh" />
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Sina Pirzadeh – developer workspace banner" />
+</p>
 
-<h1 align="center">Hi, I'm Sina Pirzadeh 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://pirroot.site">Sina Pirzadeh</a></h1>
 
-<h3 align="center">Software Engineer · Full Stack Developer</h3>
+<h3 align="center">Full-Stack Developer · Next.js · FastAPI · NestJS</h3>
 
 <p align="center">
-  Building scalable web applications with Next.js, TypeScript and NestJS.
+  6+ years building fast, SEO-friendly web apps and online stores,<br/>
+  and now moving deeper into Python and AI engineering.
 </p>
 
 <p align="center">
   <a href="https://pirroot.site">Portfolio</a> ·
   <a href="https://linkedin.com/in/pirroot">LinkedIn</a> ·
-  <a href="mailto:pirzadehroot@gmail.com">Email</a>
+  <a href="https://github.com/pirroot/pirroot/raw/main/resume.pdf">Résumé</a> ·
+  <a href="https://t.me/pirroot">Telegram</a>
 </p>
 
 ---
 
 ### About
 
-I'm a Full Stack Developer focused on building modern web applications, scalable APIs, and clean software architecture.
+- Full-stack work with Next.js, FastAPI, NestJS and PostgreSQL
+- Focus: performance, technical SEO, and code that stays maintainable months later
+- Currently learning: AI engineering and building with LLMs
 
-Currently exploring Python, FastAPI and AI engineering.
+### Featured Projects
+
+- **[Iran Package](https://iranpakage.com/)**: education + e-commerce platform. Next.js, FastAPI
+- **[Bellanzo](https://bellanzo-home.ir/)**: modern online store with a technical-SEO focus. Next.js, PostgreSQL
+- **[Rahkar Javan](https://rahkarjavan.ir/)**: news platform with content management and SEO. Next.js, PostgreSQL
+- **[Raya](https://github.com/pirroot/Raya)**: education platform. Next.js, Django REST Framework
 
 ### Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nestjs,nodejs,python,fastapi,postgres,prisma,docker,linux,git" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nestjs,nodejs,python,fastapi,postgres,prisma,docker,linux,git" alt="Tech stack: Next.js, React, TypeScript, Tailwind, NestJS, Node.js, Python, FastAPI, PostgreSQL, Prisma, Docker, Linux, Git" />
 </p>
 
 ---
