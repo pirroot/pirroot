@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Sina Pirzadeh – developer workspace banner" />
+  <img src="./banner.webp" width="100%" alt="Sina Pirzadeh – developer workspace banner" />
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://pirroot.site">Sina Pirzadeh</a></h1>
